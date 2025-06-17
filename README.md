@@ -1,6 +1,3 @@
-
-
-
 # Panduan Instalasi AtoM 2.9.x dengan Docker
 
 Dokumen ini menjelaskan langkah-langkah instalasi AtoM (Access to Memory) versi 2.9.x menggunakan Docker dan Docker Compose secara otomatis menggunakan skrip `install-atom.sh`.
@@ -21,7 +18,7 @@ Dokumen ini menjelaskan langkah-langkah instalasi AtoM (Access to Memory) versi 
 
    ```bash
    chmod +x install-atom.sh
-````
+   ````
 
 3. **Jalankan skrip:**
 
