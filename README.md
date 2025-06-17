@@ -71,8 +71,8 @@ sudo docker compose -f docker/docker-compose.dev.yml up -d
 * Jika tidak bisa login: pastikan database sudah di-purge dengan demo (`tools:purge --demo`).
 * Jika menggunakan port selain default, sesuaikan `docker-compose.dev.yml` terlebih dahulu.
 
----
+
 
 **AtoM (Access to Memory)** adalah perangkat lunak arsip berbasis web yang dikembangkan oleh Artefactual Systems, berbasis standar ICA.
 
-```
+
