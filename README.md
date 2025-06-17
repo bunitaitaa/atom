@@ -1,6 +1,4 @@
----
 
-### 📄 `README.md`
 
 ````markdown
 # Panduan Instalasi AtoM 2.9.x dengan Docker
@@ -77,9 +75,4 @@ sudo docker compose -f docker/docker-compose.dev.yml up -d
 
 **AtoM (Access to Memory)** adalah perangkat lunak arsip berbasis web yang dikembangkan oleh Artefactual Systems, berbasis standar ICA.
 
-```
-
----
-
-Jika kamu ingin file `README.md` ini langsung dikirim sebagai file siap pakai atau ditambahkan ke repositorimu, cukup bilang.
 ```
